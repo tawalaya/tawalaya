@@ -1,7 +1,7 @@
 # Hello there 👋
 
 
-I'm a computer scientist and researcher at [TU Berlin](https://www.tu.berlin/ise/sw) working on next-generation serverless and cloud-native systems. So I'm mostly messing about with **Cloud Providers / Kubernetes** ☁️, **Micoservice Frameworks** but recently also played around with building **Trustworthy Application Architectures** 🌐 and **Sustainable Computing** 🌱.
+I'm an acting professor and computer scientist working on software architecture research at [Uni Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/swk/team/werner.html). Before that, I worked at [TU Berlin](https://www.tu.berlin/ise/sw) and looked into building the next-generation serverless and cloud-native systems. So I'm mostly messing with **Cloud Providers / Kubernetes** ☁️, **Micoservice Frameworks** but recently also played around with building **Trustworthy Application Architectures** 🌐 and **Sustainable Computing** 🌱.
 
 * 💼 Senior researcher at the [Information Systems Engineering chair at TU Berlin](https://www.tu.berlin/ise), Germany.
 * 🎓 PhD. in 2023 on **Serverless Data Processing: Application Platform Co-Design**
